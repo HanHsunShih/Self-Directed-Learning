@@ -2,8 +2,8 @@
 
 ## Survey Design
 #### Using HTML, CSS
-[Link to Survey](https://nimble-mandazi-f13898.netlify.app/)
-<img src="https://github.com/HanHsunShih/Self-Directed-Learning/blob/main/Images/Online%20Survey.png">
+[Link to Survey](https://nimble-mandazi-f13898.netlify.app/)<br>
+<img src="https://github.com/HanHsunShih/Self-Directed-Learning/blob/main/Images/Online%20Survey.png" width="300px">
 
 
 ## Front-end Web Design
